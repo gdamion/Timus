@@ -1,0 +1,6 @@
+D:\Code\1032\1032\obj\Debug\1032.csprojAssemblyReference.cache
+D:\Code\1032\1032\bin\Debug\1032.exe.config
+D:\Code\1032\1032\bin\Debug\1032.exe
+D:\Code\1032\1032\bin\Debug\1032.pdb
+D:\Code\1032\1032\obj\Debug\1032.exe
+D:\Code\1032\1032\obj\Debug\1032.pdb
